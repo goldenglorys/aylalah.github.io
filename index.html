@@ -311,12 +311,9 @@ var footballwords = ["soccer","goal","kick","referee","penalty","offside","corne
 <script>
 	if ('serviceWorker' in navigator)
 		{
-			alert("here");
 			window.addEventListener('load',function()
 			{
-				alert("here2");
 				navigator.serviceWorker.register('sw.js').then(function(){
-					alert("Service worker registered");
 				});
 			});
 		}
