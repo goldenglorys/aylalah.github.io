@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en-US",
+    "name": "Shuffle word game ",
+    "scope": "/",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "short_name": "shuffle game",
+    "theme_color": "transparent",
+    "description": "Word Game",
+    "orientation": "portrait",
+    "background_color": "#0000",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "img/icon2.png",
+            "type": "image/png",
+            "sizes": "170x170"
+        }        
+    ]
+}
